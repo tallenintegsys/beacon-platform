@@ -1,5 +1,7 @@
 # Beacon Platform
 
+I have just forked some Google code to sort out the mess left behind by the Stanford brain-trust.
+
 This repository contains sample apps that demonstrate how to use the
 [Proximity Beacon API](https://developers.google.com/beacons/proximity/guides).
 
